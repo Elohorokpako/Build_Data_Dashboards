@@ -47,7 +47,7 @@ respectively. [Here](https://public.tableau.com/views/combinationoforigindestina
 * **Design Choices**
 <br>A trend line was chosen for this visualization to show changes over time. In choosing the colors for identifying the reasons for the delay, the color choices for color blind persons were also considered. The blue-green comparison color choice was avoided.
 
-
+### The pdf detailing the processes can be accessed [Here](https://github.com/Elohorokpako/Build_Data_Dashboards/blob/main/Build_data_dashboards.pdf)
 
 
 
